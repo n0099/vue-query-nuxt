@@ -1,15 +1,14 @@
 {
-  "name": "@hebilicious/vue-query-nuxt",
+  "name": "@n0099/vue-query-nuxt",
   "type": "module",
   "version": "0.3.0",
   "description": "A Nuxt module for Vue Query",
   "author": {
-    "name": "Hebilicious",
-    "email": "xsh4k3@gmail.com",
-    "url": "https://twitter.com/its_hebilicious"
+    "name": "n0099",
+    "url": "https://github.com/n0099"
   },
   "license": "MIT",
-  "repository": "Hebilicious/vue-query-nuxt",
+  "repository": "n0099/vue-query-nuxt",
   "keywords": [
     "nuxt",
     "vue",
