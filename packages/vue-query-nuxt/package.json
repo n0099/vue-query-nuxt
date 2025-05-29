@@ -1,7 +1,7 @@
 {
   "name": "@n0099/vue-query-nuxt",
   "type": "module",
-  "version": "0.4.7",
+  "version": "0.4.8",
   "description": "A Nuxt module for Vue Query",
   "author": {
     "name": "n0099",
